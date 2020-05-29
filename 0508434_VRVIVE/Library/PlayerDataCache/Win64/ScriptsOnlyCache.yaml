@@ -1407,5 +1407,5 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - "Assets/\u4FDD\u9F61\u7403.unity"
-  playerPath: C:/Users/User/Desktop/HWH_0508434_Final_VRVIVE1-master/HWH_0508434_Final_VRVIVE1-master/0508434_VRVIVE
+  playerPath: C:/Users/User/Documents/GitHub/HWH_0508434_Final_VRVIVE/0508434_VRVIVE
     Bowling/VR_Bowling.exe
